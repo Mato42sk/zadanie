@@ -1,4 +1,4 @@
-# zadanie
+# zadanie AR application
 
 This is an app which is created with sceneform maintened.
 In this app you can choose an object from gallery and then place it in your room or anywhere where you are.
